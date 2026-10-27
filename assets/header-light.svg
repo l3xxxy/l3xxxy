@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Alex Senkevich, senior software engineer and tech lead">
+  <style>
+    .name { font: 600 40px Georgia, 'Times New Roman', serif; fill: #111111; }
+    .role { font: 17px Georgia, 'Times New Roman', serif; fill: #6b6b6b; }
+    .line { font: 15px ui-monospace, SFMono-Regular, Menlo, monospace; fill: #111111; }
+    .dot  { fill: #c0392b; }
+  </style>
+  <rect width="880" height="200" fill="#ffffff"/>
+  <text x="48" y="78" class="name">Alex Senkevich</text>
+  <text x="48" y="108" class="role">Senior software engineer and tech lead · backend and AI systems · Belgrade</text>
+  <line x1="48" y1="124" x2="832" y2="124" stroke="#d9d9d9" stroke-width="1"/>
+  <circle cx="832" cy="124" r="4" class="dot">
+    <animate attributeName="cx" values="48;832" dur="12s" repeatCount="indefinite"/>
+  </circle>
+    <text x="48" y="150" class="line" opacity="0">backend systems under load, ten years and counting
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0000;0.0417;0.2917;0.3333;1" dur="12.0s" repeatCount="indefinite"/>
+    </text>
+    <text x="48" y="150" class="line" opacity="0">LLM pipelines in production, with their own failure detection
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3333;0.3750;0.6250;0.6667;1" dur="12.0s" repeatCount="indefinite"/>
+    </text>
+    <text x="48" y="150" class="line" opacity="0">katelabs: every crypto headline scored, indexed, traded, published
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6667;0.7083;0.9583;1.0000;1" dur="12.0s" repeatCount="indefinite"/>
+    </text>
+</svg>
