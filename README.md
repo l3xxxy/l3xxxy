@@ -39,7 +39,7 @@
     <td align="center"><b>📡 109</b><br><sub>news outlets, around the clock</sub></td>
     <td align="center"><b>🪙 37</b><br><sub>coins in the cross-section</sub></td>
     <td align="center"><b>⏱️ 11 min</b><br><sub>median from publication to score</sub></td>
-    <td align="center"><b>🎯 32 / 34</b><br><sub>live trades matched to the simulator, one to one</sub></td>
+    <td align="center"><b>🎯 57 / 62</b><br><sub>live trades matched to the simulator one to one, eight weeks</sub></td>
   </tr>
 </table>
 
@@ -57,7 +57,7 @@
 |---|---|---|
 | 1 | [A single headline describes the price. The flow of headlines predicts it, a little.](https://katelabs.io/research/news-flow) | Two years, 37 coins: a coin's news tone against its own norm is followed by about ¼% a day for two days. |
 | 2 | [Loud or positive?](https://katelabs.io/research/attention-vs-tone) | Coverage volume predicts how much a coin moves; tone predicts which way. Different information. |
-| 3 | [Live against the simulator](https://katelabs.io/research/live-vs-simulator) | 32 of 34 real trades matched one to one; live and simulated earned the same. |
+| 3 | [Live against the simulator](https://katelabs.io/research/live-vs-simulator) | Eight weeks of real trades, 57 of 62 matched one to one; live and simulated earned the same. |
 | 4 | [Anatomy of the flow](https://katelabs.io/research/anatomy-of-the-flow) | What the dataset is: who writes, when, about which coins, how fast it arrives, and what the scores look like. |
 | 5 | [Two kinds of headline](https://katelabs.io/research/what-the-label-adds) | What the proactive / reactive label adds to the score, and what it does not. |
 | 6 | [Who moves the crypto market?](https://katelabs.io/research/who-writes-first) | 61 outlets ranked by what price does before and after their headlines. Nobody moves it; the index comes from all of them together. |
@@ -70,17 +70,17 @@
 
 | | | |
 |---|---|---|
-| **2024 –** | 🚗 **Rivian Automotive** | Senior software engineer, domain owner for Parts Management. Migrated the domain's event-driven architecture to **Redpanda without downtime**; federated GraphQL on Cosmo Router; **Warranty & Returns** and **VIN printing** from first architecture to production; CI/CD and AWS cost work; mentoring, several mentees promoted. |
-| **2024 –** | 📰 **katelabs** | Founder and engineer. Real-time **LLM pipeline** (Go, TypeScript, PostgreSQL) scoring every English-language crypto headline within minutes of publication; research across 37 coins; a **live Binance spot record** published trade by trade. |
-| **2022 – 2024** | 🎮 **Playrix** | Expert team lead. Led the **frontend expert team**, unified the stack and architectural standards across all product teams, two generations of the company-wide React UI library, lead expert on 15+ services. |
-| **2020 – 2022** | 🛒 **Trinity** | First engineer, then tech lead. Backend architecture for a React Native retail platform integrating sales, inventory and 1C accounting; **acquired by a major retail chain**. |
-| **2020** | 🎥 **City Entertainment Ticketing** | Led the build of a **high-load live-streaming platform** during COVID-19: thousands of concurrent paying viewers with real-time interactive features. |
-| **2019 – 2020** | 👟 **kari** | Tech lead. **Workforce forecasting model** and a real-time shift management system; a B2B partner marketplace for inventory analytics and procurement. |
-| **2018 – 2019** | 💸 **Hiero Technologies** | Tech lead of four engineers. Investment platform MVP with a **proprietary Bitcoin and Ethereum payment gateway**. |
-| **2017 – 2018** | 🎟️ **City Entertainment Ticketing** | Full-stack engineer. Distributed master–replica server architecture and a custom **2D seat-selection widget** (Canvas/PixiJS) for concert halls. |
-| **2015 – 2017** | 🔋 **Smirnov Batteries** | Full-stack engineer. Internal logistics and inventory management software. |
+| **May 2024 – now** | 🚗 **Rivian Automotive**<br><sub>Belgrade, remote</sub> | Senior software engineer, **domain owner for Parts Management**: the architecture of hundreds of microservices for parts logistics and spare-parts analytics, and the architectural reference for several teams. Moved the domain's event-driven architecture to **Redpanda without downtime**; own its **federated GraphQL** schemas (Cosmo Router) and the on-call rotation; led **Warranty & Returns** from first design to production and shipped the **VIN-printing** system; modernised CI/CD and cut AWS costs; mentor senior engineers, several promoted. |
+| **Oct 2024 – now** | 📰 **katelabs**<br><sub>formerly Quant Lambda · Belgrade</sub> | Founder and engineer. A real-time **LLM pipeline** (Go, TypeScript, PostgreSQL) that scores every English-language crypto headline within minutes of publication and stores it **point-in-time**, a per-coin news index served via API, research across 37 coins on how news tone and volume lead price, and a **live trading record on Binance spot**, published trade by trade and matched to the simulator one to one. |
+| **Jan 2022 – May 2024** | 🎮 **Playrix**<br><sub>Belgrade</sub> | Led the **Expert Team** at a top mobile games publisher: a cross-cutting group of senior engineers that set the architecture and engineering standards for all product teams, backend and frontend.<br>• Unified the stack and architectural standards across product teams; **cut time-to-market** for new services.<br>• Platform and backend: **authentication and authorization, CI/CD pipelines, the release system**, infrastructure and cost reduction.<br>• Designed **two generations of the company-wide React UI library**.<br>• Lead expert on **15+ services**; drove architecture reviews and service decomposition; mentored engineers across teams. |
+| **Dec 2020 – Jan 2022** | 🛒 **Trinity**<br><sub>Moscow</sub> | Senior software engineer, then tech lead. **First engineer** on a React Native retail platform that merged sales, inventory and 1C accounting into one application; defined its backend architecture and system design. The product grew to commercial clients and was **acquired by a major retail chain**. |
+| **Jul – Dec 2020** | 🎥 **City Entertainment Ticketing**<br><sub>Moscow</sub> | Senior full-stack engineer. Returned to lead the build of a **high-load live-streaming platform** during COVID-19: thousands of concurrent paying viewers and real-time interactive features. |
+| **Feb 2019 – Jul 2020** | 👟 **kari**<br><sub>Yekaterinburg</sub> | Tech lead at a retail chain. A **workforce forecasting model** and a real-time shift management system that cut labour costs; a **B2B partner marketplace** centralising inventory analytics and procurement. |
+| **May 2018 – Feb 2019** | 💸 **Hiero Technologies**<br><sub>Moscow</sub> | Senior software engineer, tech lead of four. Investment platform MVP with a **proprietary Bitcoin and Ethereum payment gateway**. |
+| **Aug 2017 – May 2018** | 🎟️ **City Entertainment Ticketing**<br><sub>Moscow</sub> | Full-stack engineer. A distributed **master–replica server architecture** and a custom **2D seat-selection widget** (Canvas, PixiJS) for concert halls, cutting latency and improving conversion. |
+| **May 2015 – Feb 2017** | 🔋 **Smirnov Batteries**<br><sub>Yekaterinburg</sub> | Full-stack engineer. Internal logistics and inventory software that streamlined warehouse operations. |
 
-🎓 **Ural Federal University**, mathematics and computer science, 2013 – 2017.
+🎓 **Ural Federal University**, Yekaterinburg, 2013 – 2017. Faculty of Mathematics and Mechanics, mathematics and computer science.
 
 ## 🧰 Stack
 
