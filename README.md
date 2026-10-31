@@ -29,7 +29,7 @@
 | | |
 |---|---|
 | 🚗 **Rivian** | Senior software engineer, **domain owner for Parts Management**: the architecture of hundreds of microservices for parts logistics and analytics, the domain's event-driven backbone on **Redpanda**, its **federated GraphQL** schemas, on-call, and mentoring senior engineers. |
-| 📰 **katelabs** | Running the pipeline and the live account, writing research notes. <!-- katelabs-stats:start -->Collecting since 4 October 2024; 244,932 headlines scored as of 30 October 2026.<!-- katelabs-stats:end --> |
+| 📰 **katelabs** | Running the pipeline and the live account, writing research notes. <!-- katelabs-stats:start -->Collecting since 4 October 2024; 245,352 headlines scored as of 31 October 2026.<!-- katelabs-stats:end --> |
 
 ## 📰 katelabs, by the numbers
 
